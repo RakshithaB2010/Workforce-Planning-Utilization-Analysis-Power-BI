@@ -143,7 +143,7 @@ These measures help evaluate employee workload and organizational efficiency.
 ## Dashboard Screenshots
 
 ### Billable Report
-![Billable Report](Workforce-Planning-PowerBI/Dashboard_Screenshots/Billable Report.png)
+![Billable Report](Workforce-Planning-PowerBI/Dashboard_Screenshots/Billable%20Report.png)
 
 ### Over Allocation Report
 ![Over Allocation](Workforce-Planning-PowerBI/Dashboard_Screenshots/Over%20Allocation%20Report.png)
